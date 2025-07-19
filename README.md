@@ -43,7 +43,7 @@
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
 
 Ответ
-![alt text](https://github.com/Nikich828/9-02-hw/blob/main/img/img1.png)
+![alt text](https://github.com/Nikich828/11_2hw/blob/master/1.jpeg)
 
 ### Задание 3. Удаление по TTL в Memcached
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
@@ -51,7 +51,7 @@
 Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.
 
 Ответ
-![alt text](https://github.com/Nikich828/9-02-hw/blob/main/img/img1.png)
+![alt text](https://github.com/Nikich828/11_2hw/blob/master/2.jpeg)
 
 ### Задание 4. Запись данных в Redis
 Запишите в Redis несколько ключей с любыми именами и значениями.
@@ -59,7 +59,7 @@
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.
 
 Ответ
-![alt text](https://github.com/Nikich828/9-02-hw/blob/main/img/img1.png)
+![alt text](https://github.com/Nikich828/11_2hw/blob/master/3.jpeg)
 
 ### Задание 5*. Работа с числами
 Запишите в Redis несколько ключей с любыми именами и значениями.
@@ -69,4 +69,4 @@
 Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.
 
 Ответ
-![alt text](https://github.com/Nikich828/9-02-hw/blob/main/img/img1.png)
+![alt text](https://github.com/Nikich828/11_2hw/blob/master/4.jpeg)
